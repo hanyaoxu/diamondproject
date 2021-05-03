@@ -5,3 +5,5 @@ This report statistically analyses the round, natural diamonds from the GIA repo
 Techniques: linear regression, Python, SQL, Power BI
 
 Data Source: Kaggle
+
+Final Report and back-end Query are attached for reference.
